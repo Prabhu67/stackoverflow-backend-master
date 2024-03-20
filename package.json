@@ -5,8 +5,10 @@
   "main": "index.js",
   "type": "module",
   "engines": {
-    "node": "18.x"
-  },
+    "node": ">=18.0.0",
+    "npm": ">=6.0.0"
+},
+
   "scripts": {
     "start": "node index.js"
   },
@@ -21,6 +23,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.0.12",
     "node": "^21.7.1",
-    "nodemon": "^2.0.14"
+    "nodemon": "^2.0.14",
+    "vercel": "^33.6.1"
   }
 }
