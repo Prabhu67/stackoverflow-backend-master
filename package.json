@@ -20,6 +20,7 @@
     "install": "^0.13.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.0.12",
+    "node": "^21.7.1",
     "nodemon": "^2.0.14"
   }
 }
